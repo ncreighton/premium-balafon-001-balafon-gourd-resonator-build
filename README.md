@@ -1,0 +1,2 @@
+# premium-balafon-001-balafon-gourd-resonator-build
+Tired of guessing gourd sizes and losing track of resonator tuning adjustments mid-build? The Balafon Gourd Resonator Build Log brings surgical precision to your craft.  This Notion template eliminates the chaos of scattered notes and forgotten measurements. It organizes every step from gourd selection to final tuning, ensuring each resonator match
